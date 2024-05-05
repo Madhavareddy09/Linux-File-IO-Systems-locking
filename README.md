@@ -18,8 +18,8 @@ Write the C Program using Linux IO Systems locking
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-# Developed by : K MADHAVA REDDY
-# Register Number : 212223240064
+### Developed by : K MADHAVA REDDY
+### Register Number : 212223240064
 ## 1.To Write a C program that illustrates files copying 
 ```
 #include <unistd.h>
